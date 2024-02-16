@@ -1,5 +1,5 @@
 # hyperdeck-automation
-Trigger simultaneously REC/PLAY/STOP commands on multiple Blackmagic Hyperdeck 
+Trigger simultaneously REC/PLAY/STOP commands on multiple Blackmagic Hyperdeck connected on the same network
 
 When you cannot insert timecode in your videos, it is very handy to be able to start the recordings simultaneously.
 We can achieve this by using semaphore and asyncio in Python.
