@@ -5,8 +5,8 @@ When you cannot insert timecode in your videos, it is very handy to be able to s
 We can achieve this by using semaphore and asyncio in Python.
 
 # Usage
-Modify the IP addresses of your Blackmagic Hyperdecks and modify the Semaphore(x) value accordingly then launch in cmd with:
-<br>python REC.py
+Modify the IP addresses of your Blackmagic Hyperdecks and modify the Semaphore(<b>x</b>) value accordingly then launch in cmd with:
+<br><i>python REC.py</i>
 
 # Note
 If you want to create an .exe out of this, use a command such as 'pyinstaller --onefile your_script.py'
